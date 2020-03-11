@@ -3,9 +3,9 @@ I've chosen to use [![Ansible Galaxy](https://img.shields.io/badge/Clean-Archite
 
 To run this application, you will need to install these tools below on your machine:
 
-1. Java Version 1.8.0_181
-2. Apache Maven 3.5
-3. Docker
+- Java Version 1.8.x
+- Apache Maven 3.5
+- Docker
 
 # how to start
 ```

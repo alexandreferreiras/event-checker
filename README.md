@@ -1,10 +1,11 @@
 # event-check application
-I've chose to use [![Ansible Galaxy](https://img.shields.io/badge/Clean-Architecture-blue.svg)](https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2) code base for this java application with spring boot. 
+I've chosen to use [![Ansible Galaxy](https://img.shields.io/badge/Clean-Architecture-blue.svg)](https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2) code base for this java application with spring boot. 
 
-To start the application you need this tools installed on your machine:
-- Apache Maven 3.5
-- Java Version 1.8.0_181
-- Docker
+To run this application, you will need to install these tools below on your machine:
+
+1. Java Version 1.8.0_181
+2. Apache Maven 3.5
+3. Docker
 
 # how to start
 ```

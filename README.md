@@ -14,4 +14,4 @@ $ ./startApp.sh
 ```
 
 # how to use
-- After the application to be started, you need to access the URL http://localhost/swagger-ui.html and choose which method you wanto to use.
+- Once the application is up and running, it'll be accessible by this URL: http://localhost/swagger-ui.html.
